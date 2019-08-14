@@ -7,6 +7,8 @@ public class Car {
 	double getSalePrice() {
 		return 5674;
 	}
-
+public class bike{
+	int speed;
+	double regularPrice;
 
 }
